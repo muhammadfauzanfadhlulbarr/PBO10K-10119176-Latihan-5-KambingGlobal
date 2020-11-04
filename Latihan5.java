@@ -1,5 +1,9 @@
 /**
  * Latihan5
+ * Nama     : Muhammad Fauzan Fadhlulbarr
+ * Kelas    : PBO10K
+ * NIM      : 10119176
+ * Program  : Kambing Global
  */
 public class Latihan5 {
 
